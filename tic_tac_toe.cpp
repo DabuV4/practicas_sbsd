@@ -1,6 +1,4 @@
-#include <iostream> // Para entrada (cin) y salida (cout)
-#include <vector>   // Aunque no se usa vector aquí, es útil conocerlo. Usaremos array C++.
-#include <limits>   // Para limpiar el buffer de entrada (cin.ignore)
+
 
 // Usamos el espacio de nombres std para no escribir std::cout, std::cin, etc.
 using namespace std;
